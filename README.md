@@ -1,17 +1,34 @@
+#  Stock Price Prediction & Algorithmic Trading Strategy
+
+---
+
+##  Project Overview
+This project uses **Machine Learning and Deep Learning models** to predict next-day stock prices using historical market data. It also evaluates a trading strategy based on predicted price movements and compares multiple models using financial performance metrics.
+
+---
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Stock_chart.svg" width="300" alt="Stock Prediction">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-ML-blue?style=flat-square">
+  </a>
+
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Deep%20Learning-LSTM%20%7C%20GRU-orange?style=flat-square">
+  </a>
+
+  <a href="https://en.wikipedia.org/wiki/Stock_market" target="_blank">
+    <img src="https://img.shields.io/badge/Finance%20Project-Stock%20Prediction-green?style=flat-square">
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-ML-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Deep%20Learning-LSTM%20%7C%20GRU-orange?style=flat-square">
-  <img src="https://img.shields.io/badge/Finance%20Project-Stock%20Prediction-green?style=flat-square">
-</p>
+## 📄 Project Report
 
-# 📈 Stock Price Prediction & Algorithmic Trading Strategy
+You can view the full detailed project report here:
 
-## 🚀 Project Overview
-This project uses **Machine Learning and Deep Learning models** to predict next-day stock prices using historical market data. It also evaluates a simple trading strategy based on predicted price movements and compares multiple models using financial performance metrics.
+👉 **[Comparative Analysis of 
+Machine Learning and 
+Deep Learning Models 
+for Apple (AAPL) Stock 
+Price Prediction ](https://drive.google.com/file/d/1kp_Q3CWS-Up-vz5fi-s0SWhcTT0gzhf8/view?usp=drive_link)**
 
 ---
 
@@ -65,13 +82,6 @@ The strategy is evaluated using:
 | Random Forest     | Non-linear ML model              | Good        |
 | LSTM              | Deep sequence learning model     | Best DL     |
 | GRU               | Faster recurrent model           | Competitive |
-
----
-## 📄 Project Report
-
-You can view the full detailed project report here:
-
-👉 [Download Project Report (PDF)](https://drive.google.com/file/d/1kp_Q3CWS-Up-vz5fi-s0SWhcTT0gzhf8/view?usp=drive_link)
 
 ---
 
