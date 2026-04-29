@@ -20,9 +20,9 @@ This project uses **Machine Learning and Deep Learning models** to predict next-
   </a>
 </p>
 
-## 📄 Project Report
+## 📄 Manuscript
 
-You can view the full detailed project report here:
+You can view the full detailed project manuscript here:
 
 👉 **[Comparative Analysis of 
 Machine Learning and 
