@@ -24,12 +24,12 @@ This project uses **Machine Learning and Deep Learning models** to predict next-
 
 You can view the full detailed project manuscript here:
 
-👉 **[Comparative Analysis of 
+👉 Comparative Analysis of 
 Machine Learning and 
 Deep Learning Models 
 for Apple (AAPL) Stock 
-Price Prediction ](https://drive.google.com/file/d/1kp_Q3CWS-Up-vz5fi-s0SWhcTT0gzhf8/view?usp=drive_link)**
-
+Price Prediction
+DOI: [10.21203/rs.3.rs-9552407/v1](https://doi.org/10.21203/rs.3.rs-9552407/v1)
 ---
 
 ## ⚙️ Workflow
